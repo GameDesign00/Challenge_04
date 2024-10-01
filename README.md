@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/0f06a322-550d-4db5-90e1-d37bb87c2529
 
 # Parte II: Traslación y Rotación del Personaje en Visual Graph
 
+https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
+
 # Parte III: Creacion del Prefab de la Bala
 
 # Parte IV: Disparar la Bala en C#
