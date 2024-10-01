@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/f4c42697-7c3d-4073-bbfc-1a363bf35cd6
 
 # Parte V: DIsparar la Bala en Visual Graph
 
-Parte VI: Opiniones Acerca del Proyecto
+# Parte VI: Opiniones Acerca del Proyecto
 
 ## Sebatián Negrón:
 
