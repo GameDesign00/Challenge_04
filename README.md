@@ -4,7 +4,7 @@
 
 ## Antes de trabajar en los movimientos del personaje en C#, comenzamos el proyecto importando el paquete _Robot Hero: PBR HP Polyart_. Insertamos la figura _PolyartCharacter_, encontrada en la carpete de Prefabs; llamemos al robot (insertar nombre) por la duración el proyecto.
 
-![image](https://github.com/user-attachments/assets/56f09a0e-0637-48fe-9897-f8961d2c4f15)
+![image](https://github.com/user-attachments/assets/71a23901-4f7b-4dcb-8ae1-5ad152da8482)
 
 ## No queremos que (insertar nombre) quede flotando en la nada, por lo tanto, colocamos un terreno de 40 metros de ancho y 40 metros de largo, ajustando la altura a 50 metros. Más adelante, haremos algunos detalles con el terreno.
 
