@@ -26,7 +26,7 @@
 ![image](https://github.com/user-attachments/assets/8b52e82e-bae9-41ea-93e1-646e75d2c866)
 
 
-https://github.com/user-attachments/assets/f4c42697-7c3d-4073-bbfc-1a363bf35cd6
+https://github.com/user-attachments/assets/0f06a322-550d-4db5-90e1-d37bb87c2529
 
 # Parte II: Traslación y Rotación del Personaje en Visual Graph
 
