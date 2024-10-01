@@ -1,6 +1,8 @@
+# Bullet Time
+
 # Introducción
 
-# Parte I: Traslación y Rotación del personaje en C#
+# Parte I: Traslación y Rotación del Personaje en C#
 
 ## Antes de trabajar en los movimientos del personaje en C#, comenzamos el proyecto importando el paquete _Robot Hero: PBR HP Polyart_. Insertamos la figura _PolyartCharacter_, encontrada en la carpete de Prefabs; llamemos al robot (insertar nombre) por la duración el proyecto.
 
@@ -26,6 +28,19 @@
 
 https://github.com/user-attachments/assets/f4c42697-7c3d-4073-bbfc-1a363bf35cd6
 
+# Parte II: Traslación y Rotación del Personaje en Visual Graph
 
+# Parte III: Creacion del Prefab de la Bala
 
-# Parte II: Traslación y Rotación del personaje en Visual Graph
+# Parte IV: Disparar la Bala en C#
+
+# Parte V: DIsparar la Bala en Visual Graph
+
+Parte VI: Opiniones Acerca del Proyecto
+
+## Sebatián Negrón:
+
+## Mayra Lago
+
+## Jancarlos González
+
