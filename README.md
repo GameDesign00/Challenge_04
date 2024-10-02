@@ -2,7 +2,7 @@
 
 # Introducción:
 
-## El objetivo principal de esta actividad es repasar varios conceptos dados en clase que son primordiales para la creacion de videojuegos. Estos conceptos consisten en los primeros inputs que daremos a nuestro personaje junto con la implementación de disparar balas. 
+## El objetivo principal de esta actividad es repasar varios conceptos dados en clase que son primordiales para la creación de videojuegos. Estos conceptos consisten en los primeros inputs que daremos a nuestro personaje junto con la implementación de disparar balas. 
 
 # Parte I: Traslación y Rotación del Personaje en C#
 
