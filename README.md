@@ -23,10 +23,9 @@
 
 ![image](https://github.com/user-attachments/assets/0da02be8-e976-461e-9228-b46a49aa171b)
 
-## Una vez hecho esto, añadimos la rotación del personaje utilizando el Mouse. Declaramos otra variable pública de tipo float llamada speedRotation. Después de las condiciones IF-Else, colocamos la línea de código que permite la rotación. Además, al eliminar los else, logramos que el personaje se mueva en direcciones diagonales. A continuación mostraremos el código completo y un video de demostración.
+## Una vez hecho esto, añadimos la rotación del personaje utilizando el Mouse. Declaramos otra variable pública de tipo float llamada speedRotation. Después de las condiciones IF-Else, colocamos la línea de código que permite la rotación. Además, al eliminar los else, logramos que el personaje se mueva en direcciones diagonales. Finalmente, incluimos una funcioó nueva llamada _Start_ que se encaraga de esconder el cursor durante la ejecución del programa. A continuación mostraremos el código completo y un video de demostración.
 
-![image](https://github.com/user-attachments/assets/8b52e82e-bae9-41ea-93e1-646e75d2c866)
-
+![image](https://github.com/user-attachments/assets/7a995b04-bd82-46c7-9118-6791341bbea5)
 https://github.com/user-attachments/assets/301a043c-44e6-43ba-976d-23634a642069
 
 # Parte II: Traslación y Rotación del Personaje en Visual Graph
