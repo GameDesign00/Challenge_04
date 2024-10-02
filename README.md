@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/301a043c-44e6-43ba-976d-23634a642069
 
 ![image](https://github.com/user-attachments/assets/81a02e74-4ec9-4d9a-b2fe-fe612a6f7fdf)
 
-## Demostración del robot moviéndose con _Visal Graph_:
+## Demostración del robot moviéndose con _Visual Graph_:
 
 https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 
