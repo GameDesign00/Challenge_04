@@ -29,6 +29,26 @@ https://github.com/user-attachments/assets/301a043c-44e6-43ba-976d-23634a642069
 
 # Parte II: Traslación y Rotación del Personaje en Visual Graph
 
+## Para mover al robot mediante Visual Graph, comenzamos insertando un nuevo script tipo machine (graph) en el personaje. Es crucial desactivar el script de movimiento en C# para evitar conflictos al mover el personaje con el nuevo script.
+
+![image](https://github.com/user-attachments/assets/06330141-f475-40ae-8fc2-c842e479db8d)
+
+## A continuación, seguimos el diagrama para agregar los bloques de movimiento. El siguiente conjunto de nodos permite que el robot avance con la tecla W o la flecha ↑. Su funcionamiento es el siguiente:
+##  - En cada _Update_ (frame), el nodo _Transform_Translate_ recibe el valor de una variable llamada speed, que controla la velocidad del robot (ajustable) en el eje Z, junto con el input de las teclas W o ↑.
+##  - Ambos inputs están conectados mediante un OR, determinando cuál está siendo presionado. Con uno de los dos es suficiente para que el personaje se mueva.
+
+![image](https://github.com/user-attachments/assets/5e1e4b6c-1199-4168-afcf-c7bb1b21ce62)
+
+## Para retroceder en el eje Z, cambiamos los inputs a S o ↓ y añadimos un nodo de multiplicación que invierte el valor, logrando así un movimiento en dirección opuesta en el eje Z. Conectamos este conjunto de nodos con el anterior          mediante un IF.
+
+
+Repetimos este proceso para el eje X, modificando los inputs del nodo Transform para que afecten dicho eje.
+
+Para romper los IF anidados, añadimos un nodo de secuencias que conecta todos los conjuntos.
+
+El último conjunto de nodos controla la rotación del personaje en el eje Y con el mouse, utilizando un nodo Transform_Rotate similar a los anteriores, permitiendo así la rotación del robot.
+  
+
 https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 
 # Parte III: Creacion del Prefab de la Bala
