@@ -67,7 +67,10 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 
 # Parte IV: Disparar la Bala en C#
 
-# Parte V: DIsparar la Bala en Visual Graph
+# Parte V: Disparar la Bala en Visual Graph
+
+# Parte VI: Algunos Detalles Adicionales: 
+## Dado que la actividad se enfoca en disparar balas, ajustamos el terreno para que asemeje una zona de combate. Primero, cavamos una trinchera alrededor del perímetro y aplicamos una textura de fuego, simulando una arena. Usamos también una textura de piedra, que complementa la de fuego. Agregamos montañas para dar mayor robustez al terreno. Finalmente, incluimos copias del robot, llamadas enemy, para que parezca que nuestro protagonista luchará contra ellos.
 
 # Parte VI: Opiniones Acerca del Proyecto
 
