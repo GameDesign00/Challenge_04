@@ -27,16 +27,11 @@
 ![image](https://github.com/user-attachments/assets/7a995b04-bd82-46c7-9118-6791341bbea5)
 https://github.com/user-attachments/assets/d998968b-aa96-46fd-8ce8-432d611fde7b
 
-
-
 # Parte II: Traslación y Rotación del Personaje en Visual Graph
 
 ## Para mover al robot mediante Visual Graph, comenzamos insertando un nuevo script tipo machine (graph) en el personaje. Es crucial desactivar el script de movimiento en C# para evitar conflictos al mover el personaje con el nuevo script.
 
 ![image](https://github.com/user-attachments/assets/06330141-f475-40ae-8fc2-c842e479db8d)
-
-https://github.com/user-attachments/assets/7afecae9-8db8-4250-be81-df47784fcba2
-
 
 ## A continuación, seguimos el diagrama para agregar los bloques de movimiento. El siguiente conjunto de nodos permite que el robot avance con la tecla W o la flecha ↑. Su funcionamiento es el siguiente:
 ##  - En cada _Update_ (frame), el nodo _Transform_Translate_ recibe el valor de una variable llamada speed, que controla la velocidad del robot (ajustable) en el eje Z, junto con el input de las teclas W o ↑.
