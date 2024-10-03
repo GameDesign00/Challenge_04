@@ -75,6 +75,7 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 # Parte VI: Opiniones Acerca del Proyecto
 
 ## Sebatián Negrón:
+## Aunque en clase ya habíamos trabajado varios de estos ejercicios, fue muy útil enfocarnos en ellos nuevamente, ya que esta práctica nos dio la primera sensación real de estar creando un videojuego. A pesar de que los proyectos anteriores también fueron entretenidos, se sentían más como maquetas. Este proyecto fue diferente, ya que interactuamos directamente con el mundo creado. Además, me ayudó a mejorar en el uso de Visual Graph, que al principio me costó entender en clase.
 
 ## Mayra Lago
 
