@@ -60,8 +60,18 @@ https://github.com/user-attachments/assets/d998968b-aa96-46fd-8ce8-432d611fde7b
 https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 
 # Parte III: Creacion del Prefab de la Bala
+
+## Para la creacion de la bala se uso una esfera y cuatro cilindros. La esfera simula ser el perdigon y un cilindros la carcasa los otros son detalles que se lograron agrandandolos o encogiendolos.
+
 ![Screenshot 2024-10-03 175411](https://github.com/user-attachments/assets/4e3ad952-b6c0-4563-ad47-2ea1665aa101)
+
+## Los materiales escogidos para simular una bala fue oro para la carcasa y metal para el perdigon 
+
 ![Screenshot 2024-10-04 052643](https://github.com/user-attachments/assets/6f628473-32ec-4b65-885b-fe100c1f9681)
+
+## El resultado final de la bala 
+
+![Screenshot 2024-10-04 064325](https://github.com/user-attachments/assets/65e9ff80-c7af-453d-acd4-083dbd840320)
 
 # Parte IV: Disparar la Bala en C#
 ![Screenshot 2024-10-03 183904](https://github.com/user-attachments/assets/a43871ee-53dd-4b8b-af91-b6bf5c8802a6)
