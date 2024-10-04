@@ -2,7 +2,7 @@
 
 # Introducción:
 
-## El objetivo principal de esta actividad es repasar varios conceptos dados en clase que son primordiales para la creación de videojuegos. Estos conceptos consisten en los primeros inputs que daremos a nuestro personaje junto con la implementación de disparar balas. 
+## El objetivo principal de esta actividad es repasar varios conceptos dados en clase que son fundamentales para la creación de videojuegos. Estos conceptos consisten en los primeros inputs que daremos a nuestro personaje junto con la implementación de disparar balas. 
 
 # Parte I: Traslación y Rotación del Personaje en C#
 
@@ -10,7 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/71a23901-4f7b-4dcb-8ae1-5ad152da8482)
 
-## No queremos que el pobre robot quede flotando en la nada, por lo tanto, colocamos un terreno de 40 metros de ancho y 40 metros de largo, ajustando la altura a 50 metros. Más adelante, haremos algunos detalles con el terreno.
+## No queremos que el pobre robot quede flotando en medio de la nada, por lo tanto, colocamos un terreno de 40 metros de ancho y 40 metros de largo, ajustando la altura a 50 metros. Más adelante, haremos algunos detalles al terreno.
 
 ![image](https://github.com/user-attachments/assets/18be7896-c39f-46ec-b49e-90050981104b)
 
@@ -59,41 +59,41 @@ https://github.com/user-attachments/assets/d998968b-aa96-46fd-8ce8-432d611fde7b
 
 https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 
-# Parte III: Creacion del Prefab de la Bala
+# Parte III: Creación del Prefab de la Bala
 
-## Para la creacion de la bala se uso una esfera y cuatro cilindros. La esfera simula ser el perdigon y un cilindros la carcasa los otros son detalles que se lograron agrandandolos o encogiendolos.
+## Para la creación de la bala se utilizó una esfera y cuatro cilindros. La esfera es el perdigón, uno de los cilindros es la carcasa y el resto se agrandaron y encogieron para hacer los detalles.
 
 ![Screenshot 2024-10-03 175411](https://github.com/user-attachments/assets/4e3ad952-b6c0-4563-ad47-2ea1665aa101)
 
-## Los materiales escogidos para simular una bala fue oro para la carcasa y metal para el perdigon 
+## Los materiales escogidos para hacer ls bala fueron oro para la carcasa y metal para el perdigón 
 
 ![Screenshot 2024-10-04 052643](https://github.com/user-attachments/assets/6f628473-32ec-4b65-885b-fe100c1f9681)
 
-## El resultado final de la bala 
+## Apariencia final de la bala 
 
 ![Screenshot 2024-10-04 064325](https://github.com/user-attachments/assets/65e9ff80-c7af-453d-acd4-083dbd840320)
 
 # Parte IV: Disparar la Bala en C#
 
-## El primer paso para disparar la bala fue crearle un script para que la misma se moviera 
+## El primer paso para disparar la bala fue crear un script para que se moviera 
 
 ![Screenshot 2024-10-03 183904](https://github.com/user-attachments/assets/a43871ee-53dd-4b8b-af91-b6bf5c8802a6)
 
-## El siguiente paso fue hacer el script para que cuando presiones el click izquierdo dispare
+## El siguiente paso fue hacer el script para que se se dispare una vez se presione click izquierdo
 
 ![Screenshot 2024-10-04 055404](https://github.com/user-attachments/assets/b105d288-553a-4216-83dc-c93231798445)
 
-## Por ultimo se puso desde que punto se va a disparar y que se va a disparar que fue la bala anteriormente diseñada
+## Por último, se puso desde que punto se va a disparar (Shooting Point) y el objeto que se va a disparar, que es la bala anteriormente diseñada
 
 ![Screenshot 2024-10-04 061527](https://github.com/user-attachments/assets/e29a1a9f-fa32-49b0-87a6-3d884ccbbad5)
 
 # Parte V: Disparar la Bala en Visual Graph
 
-## Para hacer que la bala se dispare pero mediante visual graph primero se hizo que se evaluara si se esta precionando el click izquierdo si se preciona entonces toma la posicion y la rotacion y se dispara
+## Para hacer que la bala se dispare empleando visual graph inicialmente se evalúa que el click izquierdo sea presionado, para luego tomar la posición y la rotación para realizar el disparo
 
 ![Screenshot 2024-10-04 063556](https://github.com/user-attachments/assets/b04eb2ad-84da-4a94-adef-61ad747d7690)
 
-## Luego se le coloco el prefab de la bala, el lugar desde el cual sera disparada y por ultimo se conecto al resto del visual graph 
+## Luego se le colocó el prefab de la bala, el lugar desde donde se dispara y se conectó el resto del visual graph 
 ![Screenshot 2024-10-04 063624](https://github.com/user-attachments/assets/b14fdce3-3809-48eb-8987-813b80314365)
 
 # Parte VI: Algunos Detalles Adicionales: 
@@ -105,6 +105,7 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 ## Aunque en clase ya habíamos trabajado varios de estos ejercicios, fue muy útil enfocarnos en ellos nuevamente, ya que esta práctica nos dio la primera sensación real de estar creando un videojuego. A pesar de que los proyectos anteriores también fueron entretenidos, se sentían más como maquetas. Este proyecto fue diferente, ya que interactuamos directamente con el mundo creado. Además, me ayudó a mejorar en el uso de Visual Graph, que al principio me costó entender en clase.
 
 ## Mayra Lago
+
 
 ## Jancarlos González
 ## Este proyecto resulto util para practicar ya que el visual graph puede llegar a ser un poco confuso por tantas conexiones que hay que hacer para que todo funcione y que si tomas un boton que no es o una conexion erronea no va a funcionar pero gracias a este proyecto pude practicar mas esa parte y dejando atras las dudas. Ademas de que tambien se siguen practicando conceptos anteriores como la creacion de terrenos, prefabs y la creacion de materiales. En resumen este proyecto me resulto util y ademas entretenido ya que descubri ciertas cosas que no sabia como el que la bala al no ser solo una esfera se dispara rotada
