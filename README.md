@@ -88,7 +88,12 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 ![Screenshot 2024-10-04 061527](https://github.com/user-attachments/assets/e29a1a9f-fa32-49b0-87a6-3d884ccbbad5)
 
 # Parte V: Disparar la Bala en Visual Graph
+
+## Para hacer que la bala se dispare pero mediante visual graph primero se hizo que se evaluara si se esta precionando el click izquierdo si se preciona entonces toma la posicion y la rotacion y se dispara
+
 ![Screenshot 2024-10-04 063556](https://github.com/user-attachments/assets/b04eb2ad-84da-4a94-adef-61ad747d7690)
+
+## Luego se le coloco el prefab de la bala, el lugar desde el cual sera disparada y por ultimo se conecto al resto del visual graph 
 ![Screenshot 2024-10-04 063624](https://github.com/user-attachments/assets/b14fdce3-3809-48eb-8987-813b80314365)
 
 # Parte VI: Algunos Detalles Adicionales: 
@@ -102,4 +107,5 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 ## Mayra Lago
 
 ## Jancarlos González
+## Este proyecto resulto util para practicar ya que el visual graph puede llegar a ser un poco confuso por tantas conexiones que hay que hacer para que todo funcione y que si tomas un boton que no es o una conexion erronea no va a funcionar pero gracias a este proyecto pude practicar mas esa parte y dejando atras las dudas. Ademas de que tambien se siguen practicando conceptos anteriores como la creacion de terrenos, prefabs y la creacion de materiales. En resumen este proyecto me resulto util y ademas entretenido ya que descubri ciertas cosas que no sabia como el que la bala al no ser solo una esfera se dispara rotada
 
