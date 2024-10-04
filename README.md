@@ -99,6 +99,10 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 # Parte VI: Algunos Detalles Adicionales: 
 ## Dado que la actividad se enfoca en disparar balas, ajustamos el terreno para que asemeje una zona de combate. Primero, cavamos una trinchera alrededor del perímetro y aplicamos una textura de fuego, simulando una arena. Usamos también una textura de piedra, que complementa la de fuego. Agregamos montañas para dar mayor robustez al terreno. Finalmente, incluimos copias del robot, llamadas enemy, para que parezca que nuestro protagonista luchará contra ellos.
 
+# Robot disparando
+
+https://github.com/user-attachments/assets/5dd70e35-3c6f-4035-bbeb-4b9077a123ec
+
 # Parte VI: Opiniones Acerca del Proyecto
 
 ## Sebatián Negrón:
@@ -108,5 +112,5 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 ## Este proyecto me permitió jugar y explorar un poco más los elementos discutidos en clase. Por lo que pude ir probando cosas nuevas en el código y el efecto que tenían en el gameplay. Además, de que fue divertido darle algo de dinamismo y jugabilidad al juego, aunque solo fuera algo básico. 
 
 ## Jancarlos González
-## Este proyecto resulto util para practicar ya que el visual graph puede llegar a ser un poco confuso por tantas conexiones que hay que hacer para que todo funcione y que si tomas un boton que no es o una conexion erronea no va a funcionar pero gracias a este proyecto pude practicar mas esa parte y dejando atras las dudas. Ademas de que tambien se siguen practicando conceptos anteriores como la creacion de terrenos, prefabs y la creacion de materiales. En resumen este proyecto me resulto util y ademas entretenido ya que descubri ciertas cosas que no sabia como el que la bala al no ser solo una esfera se dispara rotada
+## Este proyecto resultó útil para practicar, ya que el visual graph puede llegar a ser un poco confuso por tantas conexiones que hay que hacer para que todo funcione y que si tomas un botón que no es o una conexión errónea no va a funcionar, pero gracias a este proyecto pude practicar mas esa parte y dejando atrás las dudas. Además, de que también se siguen practicando conceptos anteriores como la creación de terrenos, prefabs y la creación de materiales. En resumen este proyecto me resulto útil y además entretenido ya que descubrí ciertas cosas que no sabía como el que la bala al no ser solo una esfera se dispara rotada
 
