@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 ## Aunque en clase ya habíamos trabajado varios de estos ejercicios, fue muy útil enfocarnos en ellos nuevamente, ya que esta práctica nos dio la primera sensación real de estar creando un videojuego. A pesar de que los proyectos anteriores también fueron entretenidos, se sentían más como maquetas. Este proyecto fue diferente, ya que interactuamos directamente con el mundo creado. Además, me ayudó a mejorar en el uso de Visual Graph, que al principio me costó entender en clase.
 
 ## Mayra Lago
-
+## Este proyecto me permitió jugar y explorar un poco más los elementos discutidos en clase. Por lo que pude ir probando cosas nuevas en el código y el efecto que tenían en el gameplay. Además, de que fue divertido darle algo de dinamismo y jugabilidad al juego, aunque solo fuera algo básico. 
 
 ## Jancarlos González
 ## Este proyecto resulto util para practicar ya que el visual graph puede llegar a ser un poco confuso por tantas conexiones que hay que hacer para que todo funcione y que si tomas un boton que no es o una conexion erronea no va a funcionar pero gracias a este proyecto pude practicar mas esa parte y dejando atras las dudas. Ademas de que tambien se siguen practicando conceptos anteriores como la creacion de terrenos, prefabs y la creacion de materiales. En resumen este proyecto me resulto util y ademas entretenido ya que descubri ciertas cosas que no sabia como el que la bala al no ser solo una esfera se dispara rotada
