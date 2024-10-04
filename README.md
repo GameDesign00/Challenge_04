@@ -74,8 +74,17 @@ https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 ![Screenshot 2024-10-04 064325](https://github.com/user-attachments/assets/65e9ff80-c7af-453d-acd4-083dbd840320)
 
 # Parte IV: Disparar la Bala en C#
+
+## El primer paso para disparar la bala fue crearle un script para que la misma se moviera 
+
 ![Screenshot 2024-10-03 183904](https://github.com/user-attachments/assets/a43871ee-53dd-4b8b-af91-b6bf5c8802a6)
+
+## El siguiente paso fue hacer el script para que cuando presiones el click izquierdo dispare
+
 ![Screenshot 2024-10-04 055404](https://github.com/user-attachments/assets/b105d288-553a-4216-83dc-c93231798445)
+
+## Por ultimo se puso desde que punto se va a disparar y que se va a disparar que fue la bala anteriormente diseñada
+
 ![Screenshot 2024-10-04 061527](https://github.com/user-attachments/assets/e29a1a9f-fa32-49b0-87a6-3d884ccbbad5)
 
 # Parte V: Disparar la Bala en Visual Graph
