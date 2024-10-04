@@ -60,10 +60,17 @@ https://github.com/user-attachments/assets/d998968b-aa96-46fd-8ce8-432d611fde7b
 https://github.com/user-attachments/assets/9a0cf2e6-6644-4eb4-ae52-0e66be5bbaf6
 
 # Parte III: Creacion del Prefab de la Bala
+![Screenshot 2024-10-03 175411](https://github.com/user-attachments/assets/4e3ad952-b6c0-4563-ad47-2ea1665aa101)
+![Screenshot 2024-10-04 052643](https://github.com/user-attachments/assets/6f628473-32ec-4b65-885b-fe100c1f9681)
 
 # Parte IV: Disparar la Bala en C#
+![Screenshot 2024-10-03 183904](https://github.com/user-attachments/assets/a43871ee-53dd-4b8b-af91-b6bf5c8802a6)
+![Screenshot 2024-10-04 055404](https://github.com/user-attachments/assets/b105d288-553a-4216-83dc-c93231798445)
+![Screenshot 2024-10-04 061527](https://github.com/user-attachments/assets/e29a1a9f-fa32-49b0-87a6-3d884ccbbad5)
 
 # Parte V: Disparar la Bala en Visual Graph
+![Screenshot 2024-10-04 063556](https://github.com/user-attachments/assets/b04eb2ad-84da-4a94-adef-61ad747d7690)
+![Screenshot 2024-10-04 063624](https://github.com/user-attachments/assets/b14fdce3-3809-48eb-8987-813b80314365)
 
 # Parte VI: Algunos Detalles Adicionales: 
 ## Dado que la actividad se enfoca en disparar balas, ajustamos el terreno para que asemeje una zona de combate. Primero, cavamos una trinchera alrededor del perímetro y aplicamos una textura de fuego, simulando una arena. Usamos también una textura de piedra, que complementa la de fuego. Agregamos montañas para dar mayor robustez al terreno. Finalmente, incluimos copias del robot, llamadas enemy, para que parezca que nuestro protagonista luchará contra ellos.
